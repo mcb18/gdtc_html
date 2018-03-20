@@ -1,2 +1,2 @@
 # gdtc_html
-sandbox website
+This is the directory where all of the publicly available website HTML5 content goes. 
